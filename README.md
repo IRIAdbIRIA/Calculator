@@ -1,6 +1,7 @@
 # Calculator
 
-To start program you need to open kalkulator.iml via any reader
+To start program you need to open kalkulator.iml via Jetbrains IntelliJ IDEA or run Calculator.java via in src directory. But if you want to open it by running Calculator.java, you need to move eurofxref-daily.XML file into src directory. Instruction to run java file you can find on this page:
+https://www.tutorialspoint.com/How-to-run-a-java-program.
 
 Program will ask you to enter currency name and amount in EUR for exchange.
 If you enter something wrong like name that not on list or negative currency amount program will ask you to start from entering currency name again.
