@@ -15,3 +15,6 @@ To close program you need to type "ESC" at any time
 TESTS:
 
 For tests was created CalculatorForTest Class. The only different between Calculator and CalculatorForTests is "return".Returning double instead of printing into System.out and reading from it just easier.
+
+
+Made on jdk 1.8
